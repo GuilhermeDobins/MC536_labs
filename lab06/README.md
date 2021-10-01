@@ -10,7 +10,7 @@
 |------------|----------------------------------------|
 | referência | Gan, C., Schwartz, J., Alter, S., Mrowca, D. (2021). ThreeDWorld: A Platform for Interactive Multi-Modal Physical Simulation. NeurIPS 2021 Track Datasets and Benchmarks Round1|
 | link       | [PDF](https://openreview.net/pdf?id=db1InWAwW2T) |
-| dataset | O relatório não apresenta um dataset em si, e sim um sistema que é usado para gerar um dataset, ou simplesmente ser usado como o dataset, provendo imagens, áudios, simulações físicas, espaços para movimentação, entre outros. |
+| dataset | O artigo não apresenta um dataset em si, e sim uma plataforma que é usada para gerar um dataset, ou simplesmente ser usado como o dataset, provendo imagens, áudios, simulações físicas, espaços para movimentação, entre outros. |
 | formato | Por não se tratar de um dataset, e pelo fato de os dados serem extraídos diretamente da plataforma TDW, os dados podem ser de diferentes naturezas (áudios, imagens), logo não há um formato específico. |
 
 ## Resumo
